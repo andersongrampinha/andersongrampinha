@@ -26,6 +26,7 @@ MySQL
   <li>Python</li>
   <li>Html/Css/JavaScript</li>
   <li>SQL</li>
+  <li>C#</li>
   </ul>
 <!--
 **andersongrampinha/andersongrampinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
